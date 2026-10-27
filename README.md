@@ -1,7 +1,6 @@
 # Portafolio
-Página web de portafolio
 
-Proyectos realizados
+### Proyectos realizados
 
 [Whack-a-food!](https://play.unity.com/en/games/d8443f7d-ef13-4c16-bc38-a3211402f834/whack-a-food)
 
